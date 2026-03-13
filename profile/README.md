@@ -1,9 +1,8 @@
-# xorq labs 👋
+# Xorq labs 👋
 
-Home of [xorq](https://www.xorq.dev/).
+Home of [Xorq Labs](https://xorq.dev/).
 
 Quick Links:
 
-* [our website](https://www.xorq.dev/)
+* [our website](https://xorq.dev/)
 * [our repo](https://github.com/xorq-labs/xorq)
-* [our latest post on multi-engine data pipelines](https://www.xorq.dev/posts/trino-duckdb-asof-join)
