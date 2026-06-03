@@ -1,4 +1,4 @@
-# Xorq labs 👋
+# Xorq Labs 👋
 
 Home of [Xorq Labs](https://xorq.dev/).
 
